@@ -44,10 +44,8 @@ DHT dht(DHTPIN, DHTTYPE);
  * Begin Settings
  **************************/
 // WIFI
-//const char* WIFI_SSID = "yourssid";
-//const char* WIFI_PWD = "yourpassw0rd";
-const char* WIFI_SSID = "aisfibre";
-const char* WIFI_PWD = "0836002000";
+const char* WIFI_SSID = "yourssid";
+const char* WIFI_PWD = "yourpassw0rd";
 
 // Setup
 const int UPDATE_INTERVAL_SECS = 10 * 60; // Update every 10 minutes
