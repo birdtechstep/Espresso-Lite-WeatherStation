@@ -61,10 +61,9 @@ const float UTC_OFFSET = 7;
 
 // Wunderground Settings
 const boolean IS_METRIC = true;
-//const String WUNDERGRROUND_API_KEY = "WUNDERGROUND_API_KEY";
-const String WUNDERGRROUND_API_KEY = "2ecb9eeb04e3c2a1";
-const String WUNDERGROUND_COUNTRY = "TH"; //"CH";
-const String WUNDERGROUND_CITY = "Bangkok"; //"Zurich";
+const String WUNDERGRROUND_API_KEY = "WUNDERGROUND_API_KEY";
+const String WUNDERGROUND_COUNTRY = "TH";
+const String WUNDERGROUND_CITY = "Bangkok";
 
 //Thingspeak Settings
 const String THINGSPEAK_CHANNEL_ID = "67284";
